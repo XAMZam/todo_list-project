@@ -13,6 +13,9 @@ Table of Contents
 7.License
 
 Features
+
+
+
 -User registration and authentication
 -Create, update, and delete tasks
 -Mark tasks as completed
@@ -21,6 +24,9 @@ Features
 
 
 Installation
+
+
+
 1.Prerequisites
 2.Python 3.x
 3.Django 4.x
@@ -28,6 +34,9 @@ Installation
 
 
 Setup
+
+
+
 *Clone the repository:
 git clone https://github.com/your-username/todo_list.git
 
@@ -53,6 +62,8 @@ Access the application in your browser at http://localhost:8000.
 
 
 Usage
+
+
 Register an account or log in using your credentials.
 Add new tasks using the form on the main page.
 View, edit, and delete tasks as needed.
@@ -63,15 +74,21 @@ Screenshots
 Include screenshots of your application here.
 
 Technologies Used
+
+
 Django - The web framework used
 SQLite - Default database for development
 Bootstrap - For responsive design
 HTML/CSS - Frontend structure and styling
 
 Contributing
+
+
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
 
 Steps to Contribute:
+
+
 Fork the repository
 Create a new branch (git checkout -b feature/YourFeature)
 Commit your changes (git commit -m 'Add some feature')
